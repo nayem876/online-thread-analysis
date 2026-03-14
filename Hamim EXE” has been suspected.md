@@ -1,4 +1,10 @@
+A user known as “Hamim EXE” has been suspected of distributing an application that may contain a Discord token grabber.
 
+:no_entry_sign: Do NOT download or run any unknown files from this source.
+
+
+**Action & Security Analysis by**: **[POTATO AIM](https://discord.gg/pDae3rWCuq)**
+**Contact** : [link](https://seemyprofile.page.gd/)
 
 All  proof 
 
